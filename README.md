@@ -1,1 +1,1 @@
-# DemoSpringMVCHibernate
+# DemoSpringMVCHibernateXML_2
